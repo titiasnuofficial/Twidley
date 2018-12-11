@@ -13,11 +13,6 @@
     Password: 12345678
 </p>
 
-<h3 id="item-description__demo">Apps</h3>
-<p>
-      <strong><a href="https://codecanyon.net/item/twidley-timeline-android-social-network/22595212">App Timeline</a></strong>
-</p>
-
 <h3 id="item-description__features">Official Group Twidley</h3>
 <p>
       <strong>
