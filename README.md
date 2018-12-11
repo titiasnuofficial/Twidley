@@ -199,7 +199,30 @@ You have instant messages and notifications.
 
 <p><strong>User/General Features:</strong></p>
 
+
 <ul>
+   <li>
+        <strong>Detect Pornograph Photo</strong> Twidley has a system to detect pornograph photo
+    </li>
+   <li>
+        <strong>Stickers Store</strong> With the stickers store system, you can get free stickers to send to your friends.
+    </li>
+
+   <li>
+        <strong>Share system</strong> You can share the post in your Twidley or in Facebook, Twitter, Instagram, Whatsapp, etc
+    </li>
+   <li>
+        <strong>Reactions to publications</strong> Twidley have double button, you can use love button or reactions button
+    </li>
+   <li>
+        <strong>Background color box</strong>
+    </li>
+   <li>
+        <strong>Read More & Read Less </strong>
+    </li>
+   <li>
+        <strong>Embed URL</strong> Twidley support embed url system for your posts
+    </li>
    <li>
         <strong>AmazonS3</strong> Twidley have included AmazonS3 Upload.
    </li>
@@ -214,6 +237,9 @@ You have instant messages and notifications.
     </li>
     <li>
         <strong>Auto-Detect Language</strong> Twidley also support for auto-language.
+    </li>
+     <li>
+         <strong>Nightmode</strong> Twidley also support nightmode system like Twitter
     </li>
     <li>
         <strong>Multlanguage</strong> Twidley also support for mult-language.
@@ -240,7 +266,7 @@ You have instant messages and notifications.
         <strong>Privacy</strong> users can change thier privacy settings anytime
     </li>
     <li>
-        <strong>#Hahtags</strong> Post #hashtags in posts, comments
+        <strong>#Hahtags</strong> Post #hashtags in posts, comments and chat conversations
     </li>
     <li>
         <strong>@mention</strong> user can mention thier friends
@@ -261,10 +287,9 @@ You have instant messages and notifications.
         <strong>Verify Badge</strong> Now profile support verify badge
     </li>
     <li>
-        <strong>Suggestions</strong>Followers suggestions (for new users).
+        <strong>Retina Display Ready</strong> Responsive Design (optimized for iPhone 5 and other iOS devices)
     </li>
 </ul>
-
 <h3 id="item-description__requirements">Requirements</h3>
 
 <ul>
